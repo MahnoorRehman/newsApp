@@ -1,0 +1,39 @@
+{
+    "status": "ok",
+    "totalResults": 0,
+    "articles": [
+        {
+            "title": "Dutch defector Van der Merwe won't bring up Proteas' shock T20 World Cup exit during SA20",
+            "author": "Lynn Butler",
+            "source": {
+                "Id": "news24",
+                "Name": "News24"
+            },
+            "publishedAt": "2023-01-05T18:53:05+00:00",
+            "imageurl": "https://resources.pulse.icc-cricket.com/photo-resources/2023/01/06/215f63a8-7847-4cf3-ab4f-1daa0fdb914c/GettyImages-1380927929.jpg?width=440&height=248",
+            "url": "https://www.news24.com/sport/cricket/domestic/dutch-defector-van-der-merwe-wont-bring-up-proteas-shock-t20-world-cup-exit-during-sa20-20230105"
+        },
+        {
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "author": null,
+            "source": {
+                "Id": "espn-cric-info",
+                "Name": "ESPN Cric Info"
+            },
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "imageurl": "https://static.ffx.io/images/$zoom_0.2165%2C$multiply_0.5855%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_47/t_crop_custom/q_86%2Cf_auto/1e450c79661ed6923f29697073465dcc9b6d59c6",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket"
+        },
+        {
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "author": null,
+            "source": {
+                "Id": "espn-cric-info",
+                "Name": "ESPN Cric Info"
+            },
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "imageurl": "https://sussexcricket.co.uk/sites/default/files/styles/news_large/public/2023-01/gettyimages-1304454375.jpg?itok=0TpPGV6y",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again"
+        }
+    ]
+}
